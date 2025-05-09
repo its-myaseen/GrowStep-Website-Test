@@ -1,0 +1,17 @@
+step color
+#3b73d1  
+
+
+logo color 
+#2965f3
+
+
+
+button color
+
+#3b82f6 
+
+
+Blue 500
+
+#3b82f6
